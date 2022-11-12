@@ -157,12 +157,12 @@ numbers = [12, 75, 150, 180, 145, 525, 50]
 ```
 	numbers=[12,75,150,180,145,525,50]
 	For x in numbers:
-	If x%5==0:
-	print(x)
+	     If x%5==0:
+	      print(x)
 	For x in numbers:
-	If x>150:
-	print(x)
+	    If x>150:
+	    print(x)
 	For x in numbers:
-	Print(x)
-	If x > 500 :
-	Break
+		If x > 500 :
+	          Break
+	        print(x)
